@@ -145,8 +145,21 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
 
           {/* Right: Icons (Admin, Search, User, Shopping Bag) */}
-          
-
+          <div className="flex items-center gap-3 sm:gap-5 lg:gap-6 text-[#1E2E21]">
+            
+            {/* Admin Dashboard Quick Access Button 
+            {onOpenAdmin && (
+              <button
+                id="navbar-admin-dashboard-btn"
+                onClick={onOpenAdmin}
+                className="hidden sm:flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-xs font-bold bg-purple-50 hover:bg-purple-100 text-purple-700 border border-purple-200/80 transition-colors cursor-pointer shadow-2xs"
+                title="Deshi Food Admin Dashboard"
+              >
+                <span className="w-1.5 h-1.5 rounded-full bg-purple-600 animate-pulse"></span>
+              
+              </button>
+            )}
+*/}
             {/* 1. Search Trigger */}
             <button
               id="desktop-search-trigger-btn"

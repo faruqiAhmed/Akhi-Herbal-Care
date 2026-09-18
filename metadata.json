@@ -1,0 +1,6 @@
+{
+  "name": "Akhi Herbal Care",
+  "description": "Handcrafted 100% chemical-free herbal hair oils, packs & organic wellness formulations with intuitive search, smart filters, customer social feeds, and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -144,6 +144,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
           </div>
 
+          {/* Right: Icons (Admin, Search, User, Shopping Bag) */}
           
 
             {/* 1. Search Trigger */}
